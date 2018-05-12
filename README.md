@@ -43,3 +43,7 @@
 ```bash
 常见散列算法：MD2、MD4、MD5、HAVAL、SHA、SHA-1、HMAC、HMAC-MD5、HMAC-SHA1
 ```
+
+## 5 引用
+https://www.openca.org/
+
